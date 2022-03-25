@@ -1,0 +1,1 @@
+This project is a demonstration of my ability to create a website with multiple linked web pages containing text content and pictures.
